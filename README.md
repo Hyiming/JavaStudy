@@ -1,0 +1,2 @@
+# JavaStudy
+Daily study record
